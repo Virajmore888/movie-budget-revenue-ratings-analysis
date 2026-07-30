@@ -1,0 +1,23 @@
+Q: Which genre has the best average ROI (revenue vs budget)?
+A: Adventure leads with an average ROI of 71.1x (based on 53 movies with both budget & revenue reported).
+
+Q: How closely do IMDb ratings and Rotten Tomatoes scores agree?
+A: Correlation of 0.75 across 192 movies with both scores — fairly aligned.
+
+Q: Which movie has the biggest gap between IMDb and Rotten Tomatoes?
+A: 'Transformers: Revenge of the Fallen' — IMDb 6.0/10 vs RT 19%.
+
+Q: Does a bigger budget mean a better-rated movie?
+A: Correlation between budget and IMDb rating is -0.13 — weak/no relationship.
+
+Q: What share of movies have usable budget & revenue data?
+A: 199 / 200 movies report budget (99.5%); 200 / 200 report revenue (100.0%).
+
+Q: Which genre appears most often in this dataset?
+A: Action (60 movies), followed by Adventure (53).
+
+Q: Has average IMDb rating trended up or down across release years?
+A: From 1977 to 2026, average IMDb rating went from 8.60 to 7.20.
+
+Q: Which movie delivered the best rating-per-dollar-of-budget?
+A: 'Star Wars' — IMDb 8.6/10 on a $11.0M budget.
